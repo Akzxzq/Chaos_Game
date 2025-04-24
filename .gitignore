@@ -1,8 +1,7 @@
-.vs*
-*.vcx*
-*.sln
-x64
-x86
+.vs/
+*.vcxproj.user
+*.suo
+*.user
 # Prerequisites
 *.d
 
